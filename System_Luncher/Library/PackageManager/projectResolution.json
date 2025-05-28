@@ -28,15 +28,6 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.feature.mobile@1.0.0": {
-      "name": "com.unity.feature.mobile",
-      "displayName": "Mobile",
-      "resolvedPath": "C:\\system_luncher\\System_Luncher\\Library\\PackageCache\\com.unity.feature.mobile@00f8a2b6a6fb",
-      "fingerprint": "00f8a2b6a6fb9c01b3e6d2ada669d3dc43945443",
-      "version": "1.0.0",
-      "source": "builtin",
-      "testable": false
-    },
     "com.unity.ide.rider@3.0.31": {
       "name": "com.unity.ide.rider",
       "displayName": "JetBrains Rider Editor",
@@ -439,36 +430,6 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.mobile.android-logcat@1.4.4": {
-      "name": "com.unity.mobile.android-logcat",
-      "displayName": "Android Logcat",
-      "resolvedPath": "C:\\system_luncher\\System_Luncher\\Library\\PackageCache\\com.unity.mobile.android-logcat@e05958e55753",
-      "fingerprint": "e05958e55753a6a338e14e6b165f862d1e8ce735",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.4.4",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.adaptiveperformance@5.1.1": {
-      "name": "com.unity.adaptiveperformance",
-      "displayName": "Adaptive Performance",
-      "resolvedPath": "C:\\system_luncher\\System_Luncher\\Library\\PackageCache\\com.unity.adaptiveperformance@5e96ea40f562",
-      "fingerprint": "5e96ea40f56298adb1df599c985bd6e937faf509",
-      "editorCompatibility": "2021.2.0a18",
-      "version": "5.1.1",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.mobile.notifications@2.4.0": {
-      "name": "com.unity.mobile.notifications",
-      "displayName": "Mobile Notifications",
-      "resolvedPath": "C:\\system_luncher\\System_Luncher\\Library\\PackageCache\\com.unity.mobile.notifications@439e41e635a0",
-      "fingerprint": "439e41e635a02bbc55bb3fde900603583a591836",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "2.4.0",
-      "source": "registry",
-      "testable": false
-    },
     "com.unity.2d.animation@10.1.4": {
       "name": "com.unity.2d.animation",
       "displayName": "2D Animation",
@@ -597,16 +558,6 @@
       "editorCompatibility": "2023.3.0b1",
       "version": "1.0.1",
       "source": "builtin",
-      "testable": false
-    },
-    "com.unity.profiling.core@1.0.2": {
-      "name": "com.unity.profiling.core",
-      "displayName": "Unity Profiling Core API",
-      "resolvedPath": "C:\\system_luncher\\System_Luncher\\Library\\PackageCache\\com.unity.profiling.core@aac7b93912bc",
-      "fingerprint": "aac7b93912bc5df5fe06b04ff1b758493cdc2346",
-      "editorCompatibility": "2020.1.0a1",
-      "version": "1.0.2",
-      "source": "registry",
       "testable": false
     },
     "com.unity.2d.common@9.0.7": {

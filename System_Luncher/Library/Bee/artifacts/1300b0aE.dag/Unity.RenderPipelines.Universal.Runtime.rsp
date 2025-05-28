@@ -130,9 +130,7 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
--define:ADAPTIVE_PERFORMANCE_2_0_0_OR_NEWER
--define:ADAPTIVE_PERFORMANCE_2_1_0_OR_NEWER
--define:ADAPTIVE_PERFORMANCE_4_0_0_OR_NEWER
+-define:DEV_VER
 -define:ENABLE_BURST_1_0_0_OR_NEWER
 -define:ENABLE_VR_MODULE
 -define:ENABLE_XR_MODULE
@@ -394,7 +392,6 @@
 -r:"Library/PackageCache/com.unity.visualscripting@1b53f46e931b/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1b53f46e931b/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1b53f46e931b/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
--r:"Library/Bee/artifacts/1300b0aE.dag/Unity.AdaptivePerformance.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Burst.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Mathematics.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll"
