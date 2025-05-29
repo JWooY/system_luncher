@@ -446,6 +446,7 @@
 "Assets/Scripts/Common/Logger.cs"
 "Assets/Scripts/Common/SceneLoader.cs"
 "Assets/Scripts/Common/SingletonBehaviour.cs"
+"Assets/Scripts/Title/TitleManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
